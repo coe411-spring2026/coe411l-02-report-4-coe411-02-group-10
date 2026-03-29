@@ -254,6 +254,7 @@ A one-second delay is inserted between each movement so that the position change
 ## Exercise 2
 Button is not pressed:
 <img width="1017" height="831" alt="image" src="https://github.com/user-attachments/assets/d422d269-a9dc-4a8b-acd3-2738cad018c4" />
+
 Button is pressed:
 <img width="868" height="670" alt="image" src="https://github.com/user-attachments/assets/266abeb6-34f7-44c6-8dd4-924c4260cde1" />
 
